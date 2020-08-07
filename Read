@@ -1,5 +1,9 @@
 This is a geo locator. This will tell exact geo location by using Your Ip address.
 This Tool Is Created In shell coding.
 
-To Execute
-1. git clone : 
+To Execute 
+1  git clone : https://github.com/arunvijay10/ipgeolocation.git
+2  chmod +x iplocator.sh 
+3  ./iplocator.sh
+4  Use your Ip To Know Exact Geo-Location
+5  Enjoy.
